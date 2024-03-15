@@ -1,5 +1,5 @@
 // Connect to a WebSocket server
-const socketUrl = 'wss://www.example.com/socketserver'; // Replace with your server's URL
+const socketUrl = 'wss://server.js'; // Replace with your server's URL
 const socket = new WebSocket(socketUrl);
 
 // Handle events (onopen, onmessage, etc.) for the socket
